@@ -8,3 +8,9 @@
 2025-04-07 21:42:02,458 [INFO]: File saved successfully.
 2025-04-07 21:48:51,194 [INFO]: File saved successfully.
 2025-04-07 21:48:55,157 [INFO]: CLI session ended.
+2025-04-08 08:30:00,793 [INFO]: File saved successfully.
+2025-04-08 08:30:26,746 [INFO]: File saved successfully.
+2025-04-08 10:23:24,313 [INFO]: Got surname value: Turlai
+2025-04-08 10:23:28,300 [INFO]: File saved successfully.
+2025-04-08 10:38:26,153 [ERROR]: Attempted to get invalid field 'name'.
+2025-04-08 10:39:43,842 [INFO]: Got total_counter value: 5
